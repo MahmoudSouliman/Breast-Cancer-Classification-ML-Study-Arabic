@@ -23,5 +23,4 @@ The study evaluates the performance of five core classification algorithms using
 - Jupyter Notebooks
 
 ## 👨‍💻 Author
-- **Mahmoud Souliman**
-- *Supervised by: Dr. Bassel Al-Khateeb*
+- **ML-Eng. Mahmoud Souliman**
